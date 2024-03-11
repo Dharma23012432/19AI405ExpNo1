@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: ISTIN B</h3>
-<h3>Register Number:212223040068</h3>
+<h3>Name: DHARMALINGAM S</h3>
+<h3>Register Number:212223040037</h3>
 
 
 <h3>AIM:</h3>
