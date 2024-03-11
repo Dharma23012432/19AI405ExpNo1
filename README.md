@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: DHARMALINGAM S </h3>
-<h3>Register Number:212223040037</h3>
+<h3>Name: ISTIN B</h3>
+<h3>Register Number:212223040068</h3>
 
 
 <h3>AIM:</h3>
@@ -45,7 +45,7 @@
 
 <h3>PROGRAM:</h3>
 
-
+```
 class VacuumCleanerAgent:
     def __init__(self):
         # Initialize the agent's state (location and dirt status)
@@ -91,7 +91,7 @@ agent.perform_action("suck")
 agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
-
+```
 <h3>OUTPUT:</h3>
 
 ![image](https://github.com/Lingeswaran04/19AI405ExpNo1/assets/119103865/ceac8bb1-8461-40a4-b54a-a434c7944406)
